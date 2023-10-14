@@ -1,0 +1,31 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./product-chain-1.png",
+            "title": "Back-End",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendmisse varius eim in eros elementum tristique."
+
+        },
+        {
+            "id": "2",
+            "src": "./product-chain-1.png",
+            "title": "Java",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendmisse varius eim in eros elementum tristique."
+
+        },
+        {
+            "id": "3",
+            "src": "./product-chain-1.png",
+            "title": "Node",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendmisse varius eim in eros elementum tristique."
+
+        },{
+            "id": "4",
+            "src": "./product-chain-1.png",
+            "title": "Python",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendmisse varius eim in eros elementum tristique."
+
+        }
+    ]
+}
